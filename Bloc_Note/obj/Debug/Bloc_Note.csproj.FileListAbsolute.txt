@@ -1,0 +1,2 @@
+C:\Users\loupt\OneDrive\Programmation 2\interfaces-graphiques-BelgardeTony\interfaces-graphiques-BelgardeTony\Project_Windows_Forms\Bloc_Note\bin\Debug\Bloc_Note.exe.config
+C:\Users\loupt\OneDrive\Programmation 2\interfaces-graphiques-BelgardeTony\Project_Windows_Forms\Bloc_Note\bin\Debug\Bloc_Note.exe.config
